@@ -50,6 +50,6 @@ namespace OBSD
 		amiga,
 		socppc,
 		sparc,
-		sun3,
-	}
+		sun3
+	};
 }
