@@ -149,6 +149,7 @@
     <ClInclude Include="Knesis.h" />
     <ClInclude Include="Drain.h" />
     <ClInclude Include="OpenBSD.h" />
+    <ClInclude Include="SunSol.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

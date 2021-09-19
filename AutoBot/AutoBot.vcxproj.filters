@@ -53,5 +53,8 @@
     <ClInclude Include="OpenBSD.h">
       <Filter>OS</Filter>
     </ClInclude>
+    <ClInclude Include="SunSol.h">
+      <Filter>OS</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
